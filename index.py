@@ -1,2 +1,1 @@
-print("index.py")
-print("from bottom")
+#deleted from branch
